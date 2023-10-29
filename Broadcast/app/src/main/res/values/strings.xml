@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Broadcast</string>
+    <string name="check_charging_app">Check Charging App</string>
+    <string name="device_charging">Device\'s Charging</string>
+    <string name="device_isnt_charging">Device isn\'t Charging</string>
+</resources>
