@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Receiver</string>
+    <string name="main_title">Receiver App</string>
+    <string name="main_message">Write a message</string>
+    <string name="main_button">Send Internal Broadcast</string>
+    <string name="main_txt_internal">Internal</string>
+    <string name="main_txt_external">External</string>
+</resources>
